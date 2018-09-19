@@ -1,0 +1,174 @@
+27/08/2018 01:01:26 - DEBUG - Selected German users worksheet.
+27/08/2018 01:01:26 - DEBUG - Login list length is: 7
+27/08/2018 01:01:26 - DEBUG - Password list length is: 7
+27/08/2018 01:01:26 - DEBUG - Selected credentials number 5
+27/08/2018 01:01:26 - DEBUG - Selected login: 4423a6fd453CE5D5ddBe.student@anydomain.de
+27/08/2018 01:01:26 - DEBUG - Selected password: 02e+33##
+27/08/2018 01:01:26 - DEBUG - Added 11_Landscape_116_Portrait.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped 1366x768.jpg
+27/08/2018 01:01:26 - DEBUG - Added 139 pages 30 Mb.pdf
+27/08/2018 01:01:26 - DEBUG - Added 141 page 34 Mb.pdf
+27/08/2018 01:01:26 - DEBUG - Added 160.pdf
+27/08/2018 01:01:26 - DEBUG - Added 163.pdf
+27/08/2018 01:01:26 - DEBUG - Added 168 porttrait 4 landscape.pdf
+27/08/2018 01:01:26 - DEBUG - Added 170.pdf
+27/08/2018 01:01:26 - DEBUG - Added 172.pdf
+27/08/2018 01:01:26 - DEBUG - Added 175 portrait 5 landscape.pdf
+27/08/2018 01:01:26 - DEBUG - Added 180.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped 2018-02-22_15h31_56.png
+27/08/2018 01:01:26 - DEBUG - Added 24.pdf
+27/08/2018 01:01:26 - DEBUG - Added 25 with image.pdf
+27/08/2018 01:01:26 - DEBUG - Added 26_Pages.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped 320x568.jpg
+27/08/2018 01:01:26 - DEBUG - Skipped 360x640.jpg
+27/08/2018 01:01:26 - DEBUG - Skipped 56544046-7afc-4e7d-a872-c62d12fd8992.jpg
+27/08/2018 01:01:26 - DEBUG - Skipped 600x960.jpg
+27/08/2018 01:01:26 - DEBUG - Added All_landscape.pdf
+27/08/2018 01:01:26 - DEBUG - Added banner image U4.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped banner test 2000x1700.jpg
+27/08/2018 01:01:26 - DEBUG - Skipped banners.zip
+27/08/2018 01:01:26 - DEBUG - Skipped banner_images
+27/08/2018 01:01:26 - DEBUG - Added Calculus Early Transcendentals 8th Ed 1404 pages.pdf
+27/08/2018 01:01:26 - DEBUG - Added Crash_on_page3.pdf
+27/08/2018 01:01:26 - DEBUG - Added Document 240mb.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped Export
+27/08/2018 01:01:26 - DEBUG - Skipped Freemium+ formula.txt
+27/08/2018 01:01:26 - DEBUG - Skipped Fullpage
+27/08/2018 01:01:26 - DEBUG - Added Heidi copy one.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped images.png
+27/08/2018 01:01:26 - DEBUG - Skipped index.php
+27/08/2018 01:01:26 - DEBUG - Added Invalid.pdf
+27/08/2018 01:01:26 - DEBUG - Added IT-1.pdf
+27/08/2018 01:01:26 - DEBUG - Added IT-2.pdf
+27/08/2018 01:01:26 - DEBUG - Added IT-3.pdf
+27/08/2018 01:01:26 - DEBUG - Added IT-4.pdf
+27/08/2018 01:01:26 - DEBUG - Added IT-5.pdf
+27/08/2018 01:01:26 - DEBUG - Added Landscape 25 processed.pdf
+27/08/2018 01:01:26 - DEBUG - Added Landscape 25.pdf
+27/08/2018 01:01:26 - DEBUG - Added Landscape A4 25.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped li.png
+27/08/2018 01:01:26 - DEBUG - Skipped Mixer
+27/08/2018 01:01:26 - DEBUG - Added One_page.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped sometext.txt
+27/08/2018 01:01:26 - DEBUG - Added symbol_test.pdf
+27/08/2018 01:01:26 - DEBUG - Added Test 64.pdf
+27/08/2018 01:01:26 - DEBUG - Added Test document U4.pdf
+27/08/2018 01:01:26 - DEBUG - Added Test invoice volumes price.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped TEST.jpeg
+27/08/2018 01:01:26 - DEBUG - Skipped TEST.jpg
+27/08/2018 01:01:26 - DEBUG - Skipped test.png
+27/08/2018 01:01:26 - DEBUG - Added test3.pdf
+27/08/2018 01:01:26 - DEBUG - Added test4.pdf
+27/08/2018 01:01:26 - DEBUG - Added Test_196.pdf
+27/08/2018 01:01:26 - DEBUG - Added Test_300.pdf
+27/08/2018 01:01:26 - DEBUG - Added The Art of Public Speaking 467.pdf
+27/08/2018 01:01:26 - DEBUG - Added Upside down landscape.pdf
+27/08/2018 01:01:26 - DEBUG - Skipped Website banner test 2 728x90.png
+27/08/2018 01:01:26 - DEBUG - Skipped Website banner test 3 728x90.png
+27/08/2018 01:01:26 - DEBUG - Skipped Website banner test 728x90.png
+27/08/2018 01:01:26 - DEBUG - Skipped Website banner test.gif
+27/08/2018 01:01:26 - DEBUG - Skipped Website banner test.png
+27/08/2018 01:01:26 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/url {"url": "https://staging.pluspeter.com", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:27 - DEBUG - Finished Request
+27/08/2018 01:01:27 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/window/current/maximize {"windowHandle": "current", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:28 - DEBUG - Finished Request
+27/08/2018 01:01:28 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:28 - DEBUG - Finished Request
+27/08/2018 01:01:28 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.1341660742867954-1/displayed {"id": "0.1341660742867954-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:28 - DEBUG - Finished Request
+27/08/2018 01:01:28 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "link text", "value": "Login", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:28 - DEBUG - Finished Request
+27/08/2018 01:01:28 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.1341660742867954-2/click {"id": "0.1341660742867954-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:28 - DEBUG - Finished Request
+27/08/2018 01:01:28 - DEBUG - Clicked on login button.
+27/08/2018 01:01:28 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "id", "value": "id_username", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:28 - DEBUG - Finished Request
+27/08/2018 01:01:28 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7035344792608411-1/value {"text": "4423a6fd453CE5D5ddBe.student@anydomain.de", "value": ["4", "4", "2", "3", "a", "6", "f", "d", "4", "5", "3", "C", "E", "5", "D", "5", "d", "d", "B", "e", ".", "s", "t", "u", "d", "e", "n", "t", "@", "a", "n", "y", "d", "o", "m", "a", "i", "n", ".", "d", "e"], "id": "0.7035344792608411-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:29 - DEBUG - Finished Request
+27/08/2018 01:01:29 - DEBUG - Typed login.
+27/08/2018 01:01:29 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "id", "value": "id_password", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:29 - DEBUG - Finished Request
+27/08/2018 01:01:29 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7035344792608411-2/value {"text": "02e+33##", "value": ["0", "2", "e", "+", "3", "3", "#", "#"], "id": "0.7035344792608411-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:29 - DEBUG - Finished Request
+27/08/2018 01:01:29 - DEBUG - Typed password.
+27/08/2018 01:01:29 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "id", "value": "id_password", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:29 - DEBUG - Finished Request
+27/08/2018 01:01:29 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7035344792608411-2/submit {"id": "0.7035344792608411-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:30 - DEBUG - Finished Request
+27/08/2018 01:01:30 - DEBUG - Submit login form.
+27/08/2018 01:01:30 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:30 - DEBUG - Finished Request
+27/08/2018 01:01:30 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.11479829327019253-1/displayed {"id": "0.11479829327019253-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:30 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.11479829327019253-1/displayed {"id": "0.11479829327019253-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - Profile page rendered.
+27/08/2018 01:01:31 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "link text", "value": "Jetzt Drucken", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.11479829327019253-2/displayed {"id": "0.11479829327019253-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.11479829327019253-2/enabled {"id": "0.11479829327019253-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.11479829327019253-2/click {"id": "0.11479829327019253-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - Clicked on "Print now" button.
+27/08/2018 01:01:31 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:31 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.26408640896042646-1/displayed {"id": "0.26408640896042646-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:31 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.26408640896042646-1/displayed {"id": "0.26408640896042646-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - Product selection page rendered.
+27/08/2018 01:01:32 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='button-bottom-holder']/button[@id='print_freemium']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.26408640896042646-2/displayed {"id": "0.26408640896042646-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.26408640896042646-2/enabled {"id": "0.26408640896042646-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.26408640896042646-2/click {"id": "0.26408640896042646-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - Clicked on "Print now" button for Freemium.
+27/08/2018 01:01:32 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:32 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.26408640896042646-1/displayed {"id": "0.26408640896042646-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:32 - DEBUG - Finished Request
+27/08/2018 01:01:33 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:33 - DEBUG - Finished Request
+27/08/2018 01:01:33 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-1/displayed {"id": "0.7608467914448112-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:33 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-1/displayed {"id": "0.7608467914448112-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - Wizard rendered.
+27/08/2018 01:01:34 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "id", "value": "omnibox-file-input", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "id", "value": "omnibox-file-input", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-2/value {"text": "C:\\Users\\pzakharevich\\Desktop\\Image attachments\\Testdata\\163.pdf", "value": ["C", ":", "\\", "U", "s", "e", "r", "s", "\\", "p", "z", "a", "k", "h", "a", "r", "e", "v", "i", "c", "h", "\\", "D", "e", "s", "k", "t", "o", "p", "\\", "I", "m", "a", "g", "e", " ", "a", "t", "t", "a", "c", "h", "m", "e", "n", "t", "s", "\\", "T", "e", "s", "t", "d", "a", "t", "a", "\\", "1", "6", "3", ".", "p", "d", "f"], "id": "0.7608467914448112-2", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - Added document 163.pdf
+27/08/2018 01:01:34 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-1/displayed {"id": "0.7608467914448112-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:34 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-1/displayed {"id": "0.7608467914448112-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:34 - DEBUG - Finished Request
+27/08/2018 01:01:35 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:35 - DEBUG - Finished Request
+27/08/2018 01:01:35 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-1/displayed {"id": "0.7608467914448112-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:35 - DEBUG - Finished Request
+27/08/2018 01:01:35 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//div[@class='loading_box']", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:35 - DEBUG - Finished Request
+27/08/2018 01:01:35 - DEBUG - GET http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element/0.7608467914448112-1/displayed {"id": "0.7608467914448112-1", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:35 - DEBUG - Finished Request
+27/08/2018 01:01:35 - DEBUG - POST http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84/element {"using": "xpath", "value": "//*[@id=\"doc-was-splitted-popup\"]/div[1]/div/p[text()=\"Dein Dokument hatte mehr als 160 Seiten, also haben wir das PDF in mehrere Bestellungen aufgeteilt.\"]", "sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:35 - DEBUG - Finished Request
+27/08/2018 01:01:35 - DEBUG - DELETE http://127.0.0.1:50772/session/867829c8f8514674741bb64f81640a84 {"sessionId": "867829c8f8514674741bb64f81640a84"}
+27/08/2018 01:01:36 - DEBUG - Finished Request

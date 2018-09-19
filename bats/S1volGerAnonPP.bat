@@ -1,0 +1,1 @@
+@py.exe C:\Users\pzakharevich\Desktop\Education\PlusPeter\tests\S1volGerAnonPP.py %*
